@@ -1,0 +1,24 @@
+[33mcommit d630b51594c9d987bd80abb02850e4efddbaa6b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 2e68c35 46c7c65
+Author: chandrakiran-1 <gudlachandrakiran@gmail.com>
+Date:   Sat Sep 12 23:20:48 2026 +0530
+
+    Merge branch 'main' of https://github.com/chandrakiran-1/iam-platform
+
+[33mcommit 2e68c3570c181ad979a3946f6b2a75994c85d09c[m
+Author: chandrakiran-1 <gudlachandrakiran@gmail.com>
+Date:   Sat Sep 12 23:19:15 2026 +0530
+
+    Merge main branch with IAM Project
+
+[33mcommit 46c7c6525bd9e0bdf6682c7b82d956df26afc525[m
+Author: Chandra Kiran Reddy <gudlachandrakiran@gmail.com>
+Date:   Sat Sep 12 21:59:34 2026 +0530
+
+    Initial commit
+
+[33mcommit 4a755e987734dc3d08bdc1a0c68f534751e5c0d4[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: chandrakiran-1 <gudlachandrakiran@gmail.com>
+Date:   Sat Sep 12 21:55:22 2026 +0530
+
+    Create authentication service and tests
